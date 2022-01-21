@@ -1,10 +1,10 @@
-.texto1{
+.paragrafo-normal{
     background-color: #F5F5F5;
     margin: 20px;
     padding: 20px;
 }
 
-.texto2{
+.paragrafo-destacado{
     background-color: #F0CCE2;
     margin: 20px;
     padding: 20px;
