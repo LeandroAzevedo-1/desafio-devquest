@@ -1,11 +1,12 @@
+.texto{
+    margin: 40px;
+    padding: 20px;
+}
+
 .paragrafo-normal{
     background-color: #F5F5F5;
-    margin: 20px;
-    padding: 20px;
 }
 
 .paragrafo-destacado{
     background-color: #F0CCE2;
-    margin: 20px;
-    padding: 20px;
 }
